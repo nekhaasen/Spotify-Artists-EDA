@@ -20,11 +20,11 @@ The dataset includes the following fields (after cleaning):
 
 #Tools & Libraries
 
-1. Python
-2. pandas — data loading, cleaning, transformation
-3. NumPy — numerical operations
-3. Matplotlib — chart building
-4. Seaborn — statistical visualizations
+- Python
+- pandas — data loading, cleaning, transformation
+- NumPy — numerical operations
+- Matplotlib — chart building
+- Seaborn — statistical visualizations
 
 #Workflow
 
