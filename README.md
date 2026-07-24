@@ -9,14 +9,14 @@ This project explores a dataset of Spotify artists and their streaming performan
 
 The dataset includes the following fields (after cleaning):
 
--Artist — Artist name
--Primary Genre — Main genre associated with the artist
--Artist Type — Solo or Group
--Language — Primary language of the artist's music
--Total Streams — Total streams (in millions)
--Lead Streams — Streams as lead artist (in millions)
--Solo Streams — Streams as a solo artist (in millions)
--Feature Streams — Streams as a featured artist (in millions)
+1. Artist — Artist name
+2. Primary Genre — Main genre associated with the artist
+3. Artist Type — Solo or Group
+4. Language — Primary language of the artist's music
+5. Total Streams — Total streams (in millions)
+6. Lead Streams — Streams as lead artist (in millions)
+7. Solo Streams — Streams as a solo artist (in millions)
+8. Feature Streams — Streams as a featured artist (in millions)
 
 #Tools & Libraries
 
