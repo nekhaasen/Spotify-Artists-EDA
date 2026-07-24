@@ -28,22 +28,22 @@ The dataset includes the following fields (after cleaning):
 
 #Workflow
 
--Load the data — read the raw CSV and inspect its structure
--Explore — check shape, dtypes, and summary statistics
--Clean — standardize inconsistent column names
--Handle missing values — linear interpolation on stream-count columns rather than dropping rows
--Analyze — sort, correlate, and group the cleaned data
--Visualize
-  -Number of artists by genre
-  -Solo vs. group artist distribution
-  -Top 10 most-streamed artists
-  -Correlation heatmap across stream metrics
+- Load the data — read the raw CSV and inspect its structure
+- Explore — check shape, dtypes, and summary statistics
+- Clean — standardize inconsistent column names
+- Handle missing values — linear interpolation on stream-count columns rather than dropping rows
+- Analyze — sort, correlate, and group the cleaned data
+- Visualize
+  - Number of artists by genre
+  - Solo vs. group artist distribution
+  - Top 10 most-streamed artists
+  - Correlation heatmap across stream metrics
 
 #Key Insights
 
--Certain genres dominate the artist pool, while others are long-tail with only a handful of artists.
--Solo and group artists show different streaming patterns worth investigating further.
--Lead, solo, and feature streams correlate differently with total streams — useful for understanding what drives an artist's overall reach.
+- Certain genres dominate the artist pool, while others are long-tail with only a handful of artists.
+- Solo and group artists show different streaming patterns worth investigating further.
+- Lead, solo, and feature streams correlate differently with total streams — useful for understanding what drives an artist's overall reach.
 
 #Author
 
